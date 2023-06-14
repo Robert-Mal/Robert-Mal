@@ -30,3 +30,5 @@ I'm a web developer with experience in building web and mobile applications. Iâ€
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=Robert-Mal&color=92dc7e)
