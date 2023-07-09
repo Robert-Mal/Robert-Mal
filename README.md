@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a web developer with experience in building web and mobile applications. I’m passionate about creating user-friendly interfaces, as well as writing clean and efficient code. I enjoy learning new technologies and solving challenging problems. Check out some of my projects below.
+I'm a developer with experience in building web and mobile applications. I’m passionate about creating user-friendly interfaces, as well as writing clean and efficient code. I enjoy learning new technologies and solving challenging problems. Check out some of my projects below.
 
 ## 💻 Tech stack
 
